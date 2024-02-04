@@ -1,2 +1,2 @@
 #iQuHack Quandela Challenge
-## Team: Connor Totilas, Edward Zhang, Pranavkrishna Suresh, Sameer Arora, Shorkhruz Queta
+## Team: Connor Totilas, Edward Zhang, Pranavkrishna Suresh, Sameer Arora, Shorkhruz Kakharov
