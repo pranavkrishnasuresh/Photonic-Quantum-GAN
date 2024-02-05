@@ -1,7 +1,7 @@
 **Sponsor Challenge**: Quandela
 
 **Topic**: Quantum Generative Adversarial Learning in Photonics
-
+ 
 **Contributors**: Connor Totilas, Edward Zhang, Pranavkrishna Suresh, Sameer Arora, Shokhruz Kakharov
 
 **Introduction**:
