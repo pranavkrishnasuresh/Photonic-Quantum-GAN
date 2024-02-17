@@ -1,4 +1,4 @@
-**Sponsor Challenge**: Quandela
+**Sponsor Challenge**: MIT Quantum Computing: Quandela Challenge - 3rd Place Winner
 
 **Project Name**: QForce
 
