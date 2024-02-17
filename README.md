@@ -41,7 +41,6 @@ More specifically,
 1. We were initially unsure if we should convert Fock states to Quqarts but we realized after that we didn’t need to do any conversions during training.
 2. We figured out that we needed to create two distinct circuits because different parameters from the discriminator and the generator needed to be updated at different times.
 3. The generator was not updating while the discriminator was updating: we tried to change the order with optimization/minimization but the generated output values still remained static. One thing that we also noticed was that the discriminator optimization ran for far fewer passes than the generator. 
-<img width="449" alt="Screenshot 2024-02-04 at 9 30 42 AM" src="https://github.com/pranavkrishnasuresh/Photonic-Quantum-GAN/assets/85195581/98432d61-92fa-45f7-927f-e26d648ab847">
 
 **What we learned**:
 Through the course of the hackathon, we have become more experienced with Quandela’s Perceval framework which has also enabled us to attain a greater level of understanding of photon-based quantum computing. We have also learned how to implement QGan's and about the optimization process of running the Generator and Discriminator.
